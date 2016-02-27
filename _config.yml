@@ -1,7 +1,7 @@
 name: A Blog Site
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.60016
+layout_spectrum: 0.50095
+typography_spectrum: 0.76778
 title: 'Random thoughts, photos and links'
 cta:
   domain: null
